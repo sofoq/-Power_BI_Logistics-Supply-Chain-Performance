@@ -4,7 +4,7 @@
 Designed and developed a comprehensive Business Intelligence (BI) solution to monitor and optimize supply chain operations. The primary objective of this project was to transform raw, fragmented operational data into actionable insights for logistics and warehouse management, enabling data-driven decision-making.
 
 ##  Live Demo  
-Check out the dashboard here: [Logistics Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMThiODZjNDQtODI0NC00ODBjLThhYzQtMzM2YmYyODhmZDI4IiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D)
+  Check out the dashboard here: [Logistics Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMThiODZjNDQtODI0NC00ODBjLThhYzQtMzM2YmYyODhmZDI4IiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D)
 
 ## Key Technical Highlights
 
