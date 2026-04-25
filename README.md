@@ -3,6 +3,9 @@
 ## Project Overview
 This project focuses on optimizing logistics operations by providing a comprehensive view of warehouse metrics and transportation costs.
 
+##  Live Demo  
+Check out the dashboard here: [Logistics Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMThiODZjNDQtODI0NC00ODBjLThhYzQtMzM2YmYyODhmZDI4IiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D)
+
 ## Key Features
 - **Warehouse Management:** Real-time tracking of storage capacity, stock levels, and blocked pallets.
 - **Cost Analysis:** Monitoring logistics expenses, including fuel surcharges and pricing models.
